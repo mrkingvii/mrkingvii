@@ -2,7 +2,7 @@
 - 👀 I’m interested in discord bots and aternos bots
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing XD
-- 📫 How to reach me discord for sure
+- 📫 Eeach me discord- mr.king#9999
 
 <!---
 mrkingvii/mrkingvii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
